@@ -1,6 +1,4 @@
  Nanpa basico
-<<<<<<< HEAD
 Protoje
-=======
  J. Cole
->>>>>>> 287f673fe8a3219160b7a39b7a32698ceaad07a0
+
